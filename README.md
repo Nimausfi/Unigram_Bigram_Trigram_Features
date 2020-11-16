@@ -7,6 +7,6 @@ However, most of the times signle words cannot convey the appropriate meaening.
 
 To improve the accuarcy of our model, we can implement the bigram and trigram operations:
 
-Bigram result: ('This morning', 'morning the', 'the weather' 'weather was', 'was not', 'not as', 'as warm' ...)
+Bigram result: ('This morning', 'morning the', 'the weather', 'weather was', 'was not', 'not as', 'as warm' ...)
 
-Trigram result: ()
+Trigram result: ('This morninng the', 'morning the weather', 'the weather was', 'weather was not', 'was not as', 'not as warm', 'as warm as', 'warm as yesterday', ...)
