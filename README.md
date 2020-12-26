@@ -1,4 +1,4 @@
-**Unigram, Bigram, and Trigram Operations:**
+# Unigram, Bigram, and Trigram Operations
 
 This is an important section in Natural Language Processing (NLP) which mainly deals with human languages.
 
