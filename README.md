@@ -8,6 +8,8 @@ The unigram operation gives us: ('This', 'morning', 'the', 'weather', 'was', 'no
 
 However, most of the times single words cannot convey the appropriate meaning.
 \
+\
+\
 In order to **improve the accuarcy** of our model, we can implement the bigram and trigram operations:
 
 Bigram result: ('This morning', 'morning the', 'the weather', 'weather was', 'was not', 'not as', 'as warm' ...).
