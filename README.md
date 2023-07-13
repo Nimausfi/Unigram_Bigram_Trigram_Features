@@ -1,11 +1,7 @@
-# Unigram, Bigram, and Trigram Operations
-
-This is an important section in Natural Language Processing (NLP) which mainly deals with human languages.
+## Unigram, Bigram, and Trigram Features
 
 Lets us say if we want to analysis a sentence such as "This morning the weather was not as warm as yesterday morning". 
-
 The unigram operation gives us: ('This', 'morning', 'the', 'weather', 'was', 'not', 'as', 'warm', ...). 
-
 However, most of the times single words cannot convey the appropriate meaning.
 \
 \
@@ -15,4 +11,4 @@ Bigram result: ('This morning', 'morning the', 'the weather', 'weather was', 'wa
 
 Trigram result: ('This morninng the', 'morning the weather', 'the weather was', 'weather was not', 'was not as', 'not as warm', 'as warm as', 'warm as yesterday', ...).
 
-After saving our obtained results from Unigram, Bigram, and Trigram operations, we can calculate the score of Term Frequency–Inverse Document Frequency (TF-IDF) for each of these models. I will create a new repository for the TF-IDF implementation. 
+After saving our obtained results from Unigram, Bigram, and Trigram operations, we can calculate the score of Term Frequency–Inverse Document Frequency (TF-IDF) for each of these models.
